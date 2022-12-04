@@ -20,4 +20,4 @@ if __name__ == '__main__':
                 group[counter] = line
                 counter += 1
 print('The answer to part 1 is: {}'.format(sum_priorities_a))
-print('The answer to part 1 is: {}'.format(sum_priorities_b))
+print('The answer to part 2 is: {}'.format(sum_priorities_b))
